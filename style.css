@@ -1,0 +1,48 @@
+CSS Style Guide
+
+
+
+
+
+		.container {
+			max-width: 900px;
+			margin: 0 auto;
+			padding-bottom: 50px;
+			border-left: 1px lightgrey;
+		}
+
+
+		h1 {
+			font-family: 'Montserrat', sans-serif;
+			font-size: 36pt;
+			padding-top:30px;
+			padding-bottom: -30px;
+		}
+
+
+		h3 {
+			font-family: 'Montserrat', sans-serif;
+			font-size: 14pt;
+			color: rgb(124,198,162);
+			padding-top: 20px;
+		}
+
+		.job-title {
+			font-family: 'Montserrat', sans-serif;
+			font-size: 12pt;
+		}
+
+		p {
+			font-family: 'Montserrat', sans-serif;
+			font-size: 12pt;
+		}
+
+		#contact {
+			text-align: right;
+			border-top: 4px solid rgb(124, 198, 162); 
+			background-color: white;
+			padding-top: 10px;
+			font-size: 12pt;
+
+		}
+
